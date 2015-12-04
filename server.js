@@ -4,9 +4,6 @@ var app = express();
 var bodyParser = require("body-parser");
 app.use(bodyParser.urlencoded({extended: true})); // parse POSTed data
 
-var cookieParser = require("cookie-parser");
-app.use(cookieParser()); // parse cookie data
-
 /*
  * API ENDPOINTS
  */
