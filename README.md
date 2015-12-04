@@ -17,11 +17,11 @@ Then:
 - Go to `http://localhost:3000/challenges/` for the list of challenges.
 - See `/challenges/1/challenge.js` for challenge #1 instructions.
 
-#### Bonuses
-Once you've completed the challenges, try these stretch goals:
-- Adapt your solutions to use underscore templating
-    + Add an "author" field to each message
-+ Adapt your routes to use MongoDB
-        + Create a Tweet schema
-        + Seed your database
+<!--#### Bonuses-->
+<!--Once you've completed the challenges, try these stretch goals:-->
+<!--- Adapt your solutions to use underscore templating-->
+<!--    + Add an "author" field to each message-->
+<!--+ Adapt your routes to use MongoDB-->
+<!--        + Create a Tweet schema-->
+<!--        + Seed your database-->
         + Update your routes to use the new data
